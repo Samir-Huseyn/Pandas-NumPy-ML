@@ -28,8 +28,3 @@ The single-script execution performs the following processes:
 * **Model Used:** `RandomForestRegressor(random_state=42)`
 * **Observed Mean Absolute Error (MAE):** ~\$17,213.86 (A highly optimal result considering the \$20,000 artificial variance/noise injected during generation).
 
-## ⚙️ Quick Start
-1. Clone this repository to your local environment.
-2. Run the main script to trigger both data simulation and model processing:
-   ```bash
-   python main.py
